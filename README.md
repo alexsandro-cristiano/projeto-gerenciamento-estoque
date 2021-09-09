@@ -43,7 +43,7 @@ O sistema visa auxiliar o controle de estoque de qualquer loja ou departamento.
 ## Check List
 - [x] Mini Mundo
 - [x] Lista de Requisitos
-- [ ] Diagrama de Caso e Uso
+- [x] Diagrama de Caso e Uso
 - [ ] Descrição Textual Detalhada do Caso e Uso
 - [ ] Diagrama de Classe
 - [ ] Diagrama de Sequencia
