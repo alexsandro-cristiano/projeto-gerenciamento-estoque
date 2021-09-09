@@ -41,7 +41,7 @@ O sistema visa auxiliar o controle de estoque de qualquer loja ou departamento.
 
 
 ## Check List
-- [ ] Mini Mundo
+- [x] Mini Mundo
 - [ ] Lista de Requisitos
 - [ ] Diagrama de Caso e Uso
 - [ ] Descrição Textual Detalhada do Caso e Uso
