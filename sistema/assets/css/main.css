@@ -4,24 +4,74 @@
   box-sizing: border-box;
 }
 
-#container-principal {
-  border: 1px solid;
-  background: chartreuse;
+:root {
+  /* font-size como padrão em 10px*/
+  font-size: 62.5%;
+}
+
+.view-index {
   width: 100vw;
   height: 100vh;
+
+  background-image: url('../../assets/img/verduras.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-}
+.container-index {
+  border: 0.3px solid;
+  margin: 0 auto;
 
-.esquerdo {
-  background: cornflowerblue;
+  width: 25vw;
   height: 100vh;
+
+  background-color: white;
+  opacity: 0.9;
 }
 
-.direito {
-  background: white;
-  height: 100vh;
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-index header {
+  margin-top: 3rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.container-index footer {
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-bottom: 2rem;
+}
+
+.container-index header,
+.container-index footer {
+  text-transform: uppercase;
+}
+
+/*====================== Formulario ======================*/
+#form {
+  max-width: 500px;
+  opacity: 1;
+}
+
+#form label {
+  display: block;
+  font-size: 1.6rem;
+}
+
+#form form input {
+  border-radius: 0.3rem;
+  margin: 0.2rem 0 1.5rem 0;
+  padding: 0.8rem;
+  width: 100%;
+}
+
+.bt:hover {
+  background-color: #367401;
+  opacity: none;
 }
