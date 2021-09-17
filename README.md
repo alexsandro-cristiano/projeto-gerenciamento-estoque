@@ -19,9 +19,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Java
-- JavaFX
-- MySQL
+- HTML
+- CSS
+- JavaScript
+- PHP
 
 
 
@@ -53,4 +54,4 @@ O sistema visa auxiliar o controle de estoque de qualquer loja ou departamento.
 
 ## 📝 Licença
 
-Esse projeto não possui licensa.
+Esse projeto não possui licença.
