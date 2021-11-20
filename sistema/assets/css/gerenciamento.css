@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body{
+    background-image: url('../../assets/img/verduras.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+        position: absolute;
+        bottom: 0px;
+        border: 0px;
+
+        font-size: 20px;
+        font-weight: bolder;
+        background-color: white;
+        opacity: 0.5;
+}
+nav{
+
+    position: absolute;
+    width: 800px;
+    height: 400px;
+
+    text-align: center;
+
+    background-color: white;
+    opacity: 0.8;
+    border: 1px solid black;
+}
+
+.btn{
+        position: relative;
+        border: 0px;
+        width: 400px;
+        height: 100px;
+
+        background-color: blue;
+        opacity: 10;
+        
+        text-align: center;
+
+        margin-top: 60px;
+        font-size: 25px;
+        font-weight: bolder;
+        color: black;
+}
+
+.central{
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+}
