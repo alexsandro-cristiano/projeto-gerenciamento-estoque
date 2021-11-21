@@ -19,7 +19,7 @@ footer{
         background-color: white;
         opacity: 0.5;
 }
-nav{
+.naveg{
 
     position: absolute;
     width: 800px;
@@ -38,8 +38,7 @@ nav{
         width: 400px;
         height: 100px;
 
-        background-color: blue;
-        opacity: 10;
+        background-color: #367401;
         
         text-align: center;
 
@@ -48,7 +47,9 @@ nav{
         font-weight: bolder;
         color: black;
 }
-
+.btn:hover{
+        background-color: #1a3800;
+}
 .central{
         top: 0;
         bottom: 0;
