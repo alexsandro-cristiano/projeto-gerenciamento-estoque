@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Projeto de Gerenciamento de Estoque
+# Projeto Gerenciamento de Estoque
 
 </div>
 
@@ -23,12 +23,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 - PHP
+- MySQL
 
 
 
 ## 💻 Projeto
 
-O Porjeto de Gerenciamento de Estoque é um sistema desenvolvido com base na metodologia rápida da UML ensinada na disciplina do 4° periodo Tópicos em Análise e Desenvolvimento de Sistemas (4ADS) do curso de Analise e Desenvolvimento de Sistemas da FATERJ-RIO, ministradas pelo Prof. Dr Alfredo Boente.
+O Gerenciamento de Estoque é um sistema desenvolvido com base na metodologia rápida da UML ensinada na disciplina do 4° periodo Tópicos em Análise e Desenvolvimento de Sistemas (4ADS) do curso de Analise e Desenvolvimento de Sistemas da FATERJ-RIO, ministradas pelo Prof. Dr Alfredo Boente.
 
 
 O sistema visa auxiliar o controle de estoque de qualquer loja ou departamento.
@@ -46,12 +47,12 @@ O sistema visa auxiliar o controle de estoque de qualquer loja ou departamento.
 - [x] Lista de Requisitos
 - [x] Diagrama de Caso e Uso
 - [x] Descrição Textual Detalhada do Caso e Uso
-- [ ] Diagrama de Classe
-- [ ] Diagrama de Sequencia
+- [x] Diagrama de Classe
+- [x] Diagrama de Sequencia
 - [ ] Diagrama de Estado
 - [ ] Implementação do Sistema
 
 
 ## 📝 Licença
 
-Esse projeto não possui licença.
+Esse projeto não possui licença. Desenvolvido para fins academicos.
